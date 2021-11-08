@@ -13,7 +13,8 @@ Hi Partner!
 
 Hello! Here's a code chunk where you can work:
 ```{r Pietrucha}
-
+2 + 2
+plot(cars)
 ```
 
 And i'll work here:
