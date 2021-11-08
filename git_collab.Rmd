@@ -10,3 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi Partner!
+
+Hello! Here's a code chunk where you can work:
+```{r Pietrucha}
+
+```
+
+And i'll work here:
+```{r Stuhr}
+
+```
+
+
