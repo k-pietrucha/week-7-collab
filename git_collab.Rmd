@@ -7,6 +7,8 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(palmerpenguins)
+library(tidyverse)
 ```
 
 Hi Partner!
@@ -19,7 +21,8 @@ plot(cars)
 
 And i'll work here:
 ```{r Stuhr}
-
+ggplot(penguins, aes(x = flipper_length_mm, y = bill_length_mm)) +
+  geom_point()
 ```
 
 
